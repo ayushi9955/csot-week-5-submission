@@ -1,0 +1,10 @@
+{
+  "servers": {
+    "github": {
+      "enabled": false,
+      "url": "https://api.githubcopilot.com/mcp/",
+      "auth_env": "GITHUB_TOKEN",
+      "description": "GitHub MCP server. Enable only when token is available."
+    }
+  }
+}
